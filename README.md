@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gemini LLM Chatbot Demo
 
 This project demonstrates a simple chatbot application built with Streamlit, utilizing the Gemini Pro model from Google Generative AI for natural language understanding and responses. The chatbot can interact with users in real-time, maintaining conversation history within a session.
@@ -20,8 +19,8 @@ This project demonstrates a simple chatbot application built with Streamlit, uti
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/OussamaBentaouil70/Chat_Bot_Gemini.git
-   cd Chat_Bot_Gemini
+   git clone https://github.com/yourusername/gemini-llm-chatbot.git
+   cd gemini-llm-chatbot
    ```
 
 2. **Create and activate a virtual environment**:
@@ -65,7 +64,3 @@ This project demonstrates a simple chatbot application built with Streamlit, uti
 from dotenv import load_dotenv
 load_dotenv()  # Loading all the environment variables
 ```
-=======
-# End-To-End-Gemini-Project
-To run the project use this command: streamlit run app.py    
->>>>>>> 80cb6978f8131e1e3e757eba0b9396d282ec8373
